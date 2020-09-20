@@ -1,0 +1,2 @@
+#!/bin/env /bin/bash
+teuton play --cpath=alumnos.yaml .
