@@ -1,4 +1,3 @@
 **/*.json
 **/var
-config.yaml
 *.yaml
