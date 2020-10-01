@@ -1,3 +1,4 @@
 **/*.json
 **/var
-**/alumnos*.yaml
+config.yaml
+*.yaml
