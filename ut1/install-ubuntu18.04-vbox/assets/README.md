@@ -7,8 +7,8 @@ Teuton version : 2.1.0
 
 ### Required hosts
 
-| ID | Host | Configuration |
-| -- | ---- | ------------- |
+|ID|Host|Configuration|
+|--|----|-------------|
 |1|HOST1||
 
 > NOTE: SSH Service installation is required on every host.

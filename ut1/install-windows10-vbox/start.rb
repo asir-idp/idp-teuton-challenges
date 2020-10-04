@@ -1,6 +1,8 @@
 
 group "Install Windows 10 on a VBox virtual machine" do
 
+  puts get(:host1_ip)
+
   debug = false
 
   target "Set 4GB of RAM memory for the virtual machine"
