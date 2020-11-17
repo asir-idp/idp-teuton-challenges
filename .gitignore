@@ -1,3 +1,4 @@
 **/*.json
 **/var
 *.yaml
+*.yaml_
